@@ -1,0 +1,33 @@
+.low-text {
+    font-size: 13px;
+}
+
+.facilities-div {
+    width: 325px;
+}
+
+.news-div {
+    width: 500px;
+}
+
+.lemon-green {
+    color: #DAFF01;
+}
+
+.purple-button {
+    background-color: #9353FF;
+}
+
+.position {
+    top: 40%;
+}
+
+@media(max-width: 767px) {
+    .position {
+        top: 60%;
+    }
+
+    .news-div {
+        width: 696px;
+    }
+}
